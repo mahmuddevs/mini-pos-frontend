@@ -64,6 +64,7 @@ export default function CreateSale() {
       search: debouncedSearch || undefined,
       category: selectedCategory === "All" ? undefined : selectedCategory,
     },
+    refetchOnMount: "always",
     keys: [page, debouncedSearch, selectedCategory],
     enabled: canCreateSale,
   })
