@@ -1,6 +1,6 @@
 # 📦 iClassic IT - Inventory & Sales Management System (ERP)
 
-[![Live App](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](iclassic-minierp.netlify.app)
+[Live Url](https://iclassic-minierp.netlify.app)
 
 <!-- REPLACE THE LINK ABOVE WITH YOUR ACTUAL PRODUCTION DEPLOYMENT URL -->
 
