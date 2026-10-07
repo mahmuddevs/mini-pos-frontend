@@ -1,4 +1,4 @@
-# 📦 iClassic IT - Inventory & Sales Management System (ERP)
+# 📦 Mini POS System - Inventory & Sales Management System
 
 [Live Url](https://iclassic-minierp.netlify.app)
 
