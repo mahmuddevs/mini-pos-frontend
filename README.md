@@ -1,6 +1,6 @@
 # 📦 Mini POS System - Inventory & Sales Management System
 
-[Live Url](https://iclassic-minierp.netlify.app)
+[Live Url](minipos-system.netlify.app)
 
 <!-- REPLACE THE LINK ABOVE WITH YOUR ACTUAL PRODUCTION DEPLOYMENT URL -->
 
